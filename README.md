@@ -39,7 +39,9 @@ Lawrence Wong Speech.txt (speech transcript text file)
 
 Top-20 keyword frequency chart
 
-Dispersion plots showing the “timeline” of selected keywords across the speech
+Dispersion plots of top 3 keywords with highest frequencies
+
+Dispersion plots of business related vs familiy related keywords
 
 # How to run
 
