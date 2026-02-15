@@ -33,7 +33,7 @@ lets-plot (ggplot-style charts)
 
 ## Input
 
-Lawrence Wong Speech.txt (speech transcript text file)
+Lawrence Wong Speech.txt (speech transcript text file. Source: Youtube)
 
 ## Output examples
 
